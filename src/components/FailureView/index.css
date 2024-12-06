@@ -1,0 +1,33 @@
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-image {
+  height: 300px;
+}
+
+h2 {
+  color: #475569;
+  font-size: 35px;
+  font-family: Roboto;
+  font-weight: 700;
+}
+
+p {
+  color: #475569;
+  font-size: 15px;
+  font-family: Roboto;
+}
+
+.btn {
+  background-color: #328af2;
+  color: #fff;
+  padding: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border: none;
+  border-radius: 3px;
+}
